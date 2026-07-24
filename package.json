@@ -1,0 +1,16 @@
+{
+  "name": "kxweb-all",
+  "version": "0.1.0-SNAPSHOT",
+  "main": "kxweb-all.js",
+  "types": "kxweb-all.d.ts",
+  "devDependencies": {
+    "typescript": "5.9.3"
+  },
+  "dependencies": {
+    "ws": "8.20.1",
+    "@js-joda/core": "3.2.0"
+  },
+  "peerDependencies": {},
+  "optionalDependencies": {},
+  "bundledDependencies": []
+}
